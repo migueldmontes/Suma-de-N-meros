@@ -1,4 +1,4 @@
-# Suma-de-N-meros
+# Suma-de-Numeros
 - Se te piden dos números y te muestra la suma
 
 - Te pregunta después: “¿quieres continuar (S/N)?”
